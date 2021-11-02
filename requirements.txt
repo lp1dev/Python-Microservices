@@ -7,7 +7,7 @@ docker-compose==1.8.0
 docker-py==1.9.0
 dockerpty==0.4.1
 docopt==0.6.2
-Flask==0.11.1
+Flask==1.0
 itsdangerous==0.24
 Jinja2==2.8
 jsonschema==2.5.1
